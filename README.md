@@ -1,2 +1,12 @@
-# yolog
-욜로그 YOLOG 프로젝트: DayLog, BookLog
+# ✨ yolog
+> 개인 프로젝트
+
+## DayLog
+
+## BookLog
+
+### 참고
+- 벨로그
+- MOODA
+- 해마일기
+- 텍스처 texture
